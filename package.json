@@ -45,7 +45,7 @@
 		"@tanstack/react-virtual": "^3.13.4",
 		"@types/react": "^19.0.8",
 		"@types/react-dom": "^19.0.3",
-		"astro": "^5.2.5",
+		"astro": "^7.2.8",
 		"autoprefixer": "^10.4.21",
 		"classnames": "^2.5.1",
 		"cmdk": "^1.0.4",
@@ -53,7 +53,7 @@
 		"eslint-plugin-prettier": "^5.4.0",
 		"eslint-plugin-unused-imports": "^4.1.4",
 		"p-limit": "^6.2.0",
-		"postcss": "^8.5.1",
+		"postcss": "^8.5.23",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0",
 		"react-icons": "^5.5.0",
@@ -81,13 +81,13 @@
 		"globals": "^15.14.0",
 		"harper.js": "^0.56.0",
 		"orbiter-cli": "^0.8.2",
-		"pnpm": "10.4.0",
+		"pnpm": "10.34.5",
 		"prettier": "^3.5.1",
 		"prettier-plugin-astro": "^0.14.1",
 		"prettier-plugin-curly": "^0.3.1",
 		"tsx": "^4.20.4",
 		"typescript": "^5.7.3",
-		"vitest": "^3.2.4"
+		"vitest": "^5.0.3"
 	},
 	"packageManager": "pnpm@10.4.0+sha512.6b849d0787d97f8f4e1f03a9b8ff8f038e79e153d6f11ae539ae7c435ff9e796df6a862c991502695c7f9e8fac8aeafc1ac5a8dab47e36148d183832d886dd52",
 	"prettier": {
